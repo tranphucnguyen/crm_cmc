@@ -11,3 +11,4 @@
    ```csharp
    app.UseStaticFiles();
    ```
+1. Thêm thư mục `wwwroot` vào dự án
