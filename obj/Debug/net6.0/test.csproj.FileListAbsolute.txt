@@ -17,6 +17,7 @@ D:\Documents\CSharp\ASPNET\test\test\obj\Debug\net6.0\test.AssemblyInfo.cs
 D:\Documents\CSharp\ASPNET\test\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
 D:\Documents\CSharp\ASPNET\test\test\obj\Debug\net6.0\test.MvcApplicationPartsAssemblyInfo.cs
 D:\Documents\CSharp\ASPNET\test\test\obj\Debug\net6.0\test.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\CSharp\ASPNET\test\test\obj\Debug\net6.0\test.sourcelink.json
 D:\Documents\CSharp\ASPNET\test\test\obj\Debug\net6.0\staticwebassets.build.json
 D:\Documents\CSharp\ASPNET\test\test\obj\Debug\net6.0\staticwebassets.development.json
 D:\Documents\CSharp\ASPNET\test\test\obj\Debug\net6.0\staticwebassets\msbuild.test.Microsoft.AspNetCore.StaticWebAssets.props
